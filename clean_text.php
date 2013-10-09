@@ -17,9 +17,9 @@
 
  clean_text("hi th*(&%#@is is *^&%#!<>,.;-+{]test","",1);  // return   hi this is test 
 	
- clean_text("hi this is test !? ","!,#,^,",2);  		   // return   1   	
+ clean_text("hi this is test !? ","!,#,^",2);  		   // return   1   	
 
- clean_text("hi this is test !? ","!,#,^,",3);             // return   hi this is test ?
+ clean_text("hi this is test !? ","!,#,^",3);             // return   hi this is test ?
 
 */
 
