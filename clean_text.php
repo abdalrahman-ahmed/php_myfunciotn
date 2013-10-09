@@ -6,7 +6,7 @@
  @ Author url  : https://github.com/Ahmed-Shahen
  @ License     : GNU GENERAL PUBLIC LICENSE  
  @ Github url  : https://github.com/Ahmed-Shahen/php_myfunciotn	
- @ version     : 1.0.0
+ @ version     : 1.0.2
 
 */
 
